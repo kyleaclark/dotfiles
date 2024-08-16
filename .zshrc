@@ -86,6 +86,3 @@ export PATH="$PYENV_ROOT/bin:$PATH"
 # Custom aliases (add your own here)
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
-# alias vsc="code ."
-# alias cursor="
